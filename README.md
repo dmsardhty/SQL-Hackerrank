@@ -5,9 +5,9 @@ Collection of my own answers on completing SQL challenges on Hackerrank platform
 
 ## Easy
 ### Basic Select
-- Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Revising%20The%20Select%20Queries%20I.sql)
+- Revising the Select Query 1 | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Revising%20The%20Select%20Queries%20I.sql)
 
-- Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Revising%20The%20Select%20Queries%20II.sql)
+- Revising the Select Query 2 | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Revising%20The%20Select%20Queries%20II.sql)
 
 - Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Select%20All.sql)
 
