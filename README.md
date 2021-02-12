@@ -29,9 +29,35 @@ Collection of my own answers on completing SQL challenges on Hackerrank platform
 
 - Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-7) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Weather%20Observation%20Station%207.sql)
 
-- Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-8) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Weather%20Observation%20Station%208.sql)
+- Weather Observation Station 8 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-8) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Weather%20Observation%20Station%208.sql)
 
-### Medium
+## Medium
+### Advanced Select
+- The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/The%20PADS.sql)
+
+- Binary Tree Nodes | [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Binary%20Tree%20Nodes.sql)
+
+- New Companies | [Problem](https://www.hackerrank.com/challenges/the-company) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/New%20Companies.sql)
+
+### Aggregation
+- Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Weather%20Observation%20Station%2018.sql)
+
+- Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Weather%20Observation%20Station%2019%20(Oracle).sql)
+
+- Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Weather%20Observation%20Station%2020%20(Oracle).sql)
+
+### Basic Join
+- The Report | [Problem](https://www.hackerrank.com/challenges/the-report) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/The%20Report.sql)
+
+- Top Competitors | [Problem](https://www.hackerrank.com/challenges/full-score) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Top%20Competitors.sql)
+
+- Olliviander's Inventory | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Olliviander's%20Inventory.sql)
+
+- Contest Leaderboard | [Problem](https://www.hackerrank.com/challenges/contest-leaderboard) | [Solution](https://github.com/dmsardhty/SQL-Hackerrank/blob/master/SQL%20Files/Hackerrank%20SQL%20Answers/Contest%20Leaderboard.sql)
+
+### Advanced Join
+
+### Alternative Queries
 
 
-### Hard
+## Hard
